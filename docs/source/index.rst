@@ -1,4 +1,4 @@
-Welcome to Yebana's documentation!
+Welcome to yebana's documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
